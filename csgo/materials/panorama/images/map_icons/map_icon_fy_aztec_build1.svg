@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
 <g id="Layer_1">
-	<path id="Outline" opacity="0.5" fill="#D3D3D3" d="M29.997,0H2.003C0.897,0,0,0.897,0,2.003v27.993C0,31.103,0.897,32,2.003,32
-		h27.993C31.103,32,32,31.103,32,29.997V2.003C32,0.897,31.103,0,29.997,0z"/>
 	
-		<linearGradient id="Panel_00000154389506593065838940000001965112403227541173_" gradientUnits="userSpaceOnUse" x1="5.3974" y1="5.3974" x2="26.6106" y2="26.6106">
+		<path id="Outline_00000101098255525697691710000006285982250903384984_" opacity="0.3" fill="#D3D3D3" enable-background="new    " d="
+		M29.197,0H2.803C1.255,0,0,1.255,0,2.803v26.395C0,30.745,1.255,32,2.803,32h26.395C30.745,32,32,30.745,32,29.197V2.803
+		C32,1.255,30.745,0,29.197,0z"/>
+	
+		<linearGradient id="Panel_00000057109384370389768200000015656393180244853384_" gradientUnits="userSpaceOnUse" x1="5.3974" y1="28.6026" x2="26.6106" y2="7.3894" gradientTransform="matrix(1 0 0 -1 0 34)">
 		<stop  offset="0" style="stop-color:#F2F1F2"/>
 		<stop  offset="1" style="stop-color:#989898"/>
 	</linearGradient>
-	<path id="Panel" fill="url(#Panel_00000154389506593065838940000001965112403227541173_)" d="M29.002,1H2.998
+	<path id="Panel" fill="url(#Panel_00000057109384370389768200000015656393180244853384_)" d="M29.002,1H2.998
 		C1.895,1,1,1.895,1,2.998v26.004C1,30.105,1.895,31,2.998,31h26.004C30.105,31,31,30.105,31,29.002V2.998
 		C31,1.895,30.105,1,29.002,1z"/>
 	<g id="Character">
