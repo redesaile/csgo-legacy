@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/vine_01a_color"
+	$surfaceprop Grass
+
+	$alphatest 1
+	$nocull 1
+
+	$nodecal 1
+
+	%keywords "legacy"
+}

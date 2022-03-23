@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/fy_snow/snow_01a_color"
+	$surfaceprop Snow
+	
+	%keywords "legacy"
+}

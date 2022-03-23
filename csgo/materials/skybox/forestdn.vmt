@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	$basetexture "skybox/forestdn"
+
+	$nofog 1
+
+	%keywords "legacy, skybox, sky"
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/wood_01a_color"
+	$surfaceprop Wood
+	
+	%keywords "legacy"
+}

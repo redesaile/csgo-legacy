@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/lamp_01a_color"
+	$surfaceprop Glass
+
+	$selfillum 1
+
+	%keywords "legacy"
+}

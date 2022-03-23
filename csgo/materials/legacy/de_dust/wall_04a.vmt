@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/de_dust/wall_04a_color"
+	$surfaceprop Concrete
+	
+	%keywords "legacy"
+}

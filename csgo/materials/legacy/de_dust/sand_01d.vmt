@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/de_dust/sand_01d_color"
+	$surfaceprop Sand
+	
+	%keywords "legacy"
+}

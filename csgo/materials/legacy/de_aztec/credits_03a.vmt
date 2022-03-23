@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/de_aztec/credits_03a_color"
+	$surfaceprop Plaster
+
+	%keywords "legacy"
+}

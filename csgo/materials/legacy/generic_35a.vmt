@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/generic_35a_color"
+	$surfaceprop Metal
+
+	%keywords "legacy"
+}

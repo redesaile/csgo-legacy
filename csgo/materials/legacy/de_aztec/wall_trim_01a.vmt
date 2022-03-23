@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/de_aztec/wall_trim_01a_color"
+	$surfaceprop Wood
+
+	%keywords "legacy"
+}

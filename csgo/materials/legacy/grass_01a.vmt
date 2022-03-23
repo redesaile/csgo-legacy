@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/grass_01a_color"
+	$surfaceprop Grass
+
+	%keywords "legacy"
+}

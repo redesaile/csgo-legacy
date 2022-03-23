@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/de_dust/crate_03a_top_color"
+	$surfaceprop Wood
+	
+	%keywords "legacy"
+}
