@@ -4,7 +4,7 @@ Counter-Strike resources for Counter-Strike: Global Offensive (work suspended)
 **Maps from Counter-Strike:** Fy Snow
 <br>**Maps for Counter-Strike:Global Offensive:** Fy Dust and Fy Aztec
 
-**Were used:** BSP2MAP, GCFScape, Adobe Photoshop, Adobe Illustrator, VTF Editor, VMT Editor, Notepad++, Hammer++, TAR - Radar Generator
+`Were used:` BSP2MAP, GCFScape, Adobe Photoshop, Adobe Illustrator, VTF Editor, VMT Editor, Notepad++, Hammer++, TAR [Auto Radar]
 
 ## Screenshots
 ![01](https://user-images.githubusercontent.com/90133781/159624360-7750fd6d-6843-4986-87d0-209a4087dd1f.png)
