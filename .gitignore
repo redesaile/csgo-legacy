@@ -1,2 +1,5 @@
 # Windows Explorer
 *.ini
+
+# Directories
+releases/
