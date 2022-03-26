@@ -1,5 +1,5 @@
 # Counter-Strike: Legacy `v0.1.0`
-Counter-Strike resources for Counter-Strike: Global Offensive (work suspended)
+Counter-Strike resources for Counter-Strike: Global Offensive (work suspended indefinitely)
 
 **Maps from Counter-Strike:** Fy Snow
 <br>**Maps for Counter-Strike:Global Offensive:** Fy Dust and Fy Aztec
