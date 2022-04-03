@@ -1,5 +1,5 @@
 # Counter-Strike: Legacy `v0.1.0`
-Counter-Strike resources for Counter-Strike: Global Offensive (work suspended indefinitely)
+[Counter-Strike](https://store.steampowered.com/app/10/CounterStrike) resources for Counter-Strike: Global Offensive (work suspended indefinitely)
 
 **Maps from Counter-Strike:** [Fy Snow](https://steamcommunity.com/sharedfiles/filedetails/?id=2785423894)
 <br>**Maps for Counter-Strike:Global Offensive:** [Fy Dust](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424490) and [Fy Aztec](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424875)
