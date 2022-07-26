@@ -1,4 +1,4 @@
-# Counter-Strike: Legacy `0.1.0`
+# Counter-Strike: Legacy `0.1.1`
 [Counter-Strike](https://store.steampowered.com/app/10/CounterStrike) resources for Counter-Strike: Global Offensive (work suspended indefinitely)
 
 Maps from Counter-Strike: [`Fy Snow`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785423894)
