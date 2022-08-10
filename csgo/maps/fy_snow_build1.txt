@@ -1,3 +1,0 @@
-COMMUNITYMAPCREDITS: 
-PUNKKI <font color="#fff">in</font> <font color="rgba(255,255,255,0.3)">Counter-Strike</font>
-THE OWL <font color="#fff">in</font> <font color="rgba(255,255,255,0.3)">Counter-Strike:GO</font>

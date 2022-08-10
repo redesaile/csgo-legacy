@@ -1,7 +1,0 @@
-"fy_snow_build1"
-{
-	"material" "overviews/fy_snow_build1"
-	"pos_x" "-544.000000"
-	"pos_y" "1312.000000"
-	"scale" "2.190000"
-}
