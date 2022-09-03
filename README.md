@@ -8,7 +8,7 @@ Maps from Counter-Strike: [`Fy Snow`](https://steamcommunity.com/sharedfiles/fil
 BSP2MAP, GCFScape, Adobe Photoshop, Adobe Illustrator, VTF Editor, VMT Editor, Hammer++, TAR [Auto Radar]
 
 ## Third Party Required Resources
-`Counter-Strike (included)`, [`Developer Content`](https://github.com/Redesaile/csgo-developer)
+[`Developer Content`](https://github.com/Redesaile/csgo-developer)
 
 ## Gallery
 ![Fy Snow](https://user-images.githubusercontent.com/90133781/188272331-20e11d43-75b7-48b3-8729-9f32b9248e34.png)
