@@ -1,4 +1,4 @@
-# Counter-Strike: Legacy `0.1.1`
+# Counter-Strike: Legacy `0.1.1` `Frozen`
 [Counter-Strike](https://store.steampowered.com/app/10/CounterStrike) resources and maps for [Counter-Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive).
 
 Gamemode | Maps from Counter-Strike | Maps for Counter-Strike: Global Offensive
