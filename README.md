@@ -1,11 +1,9 @@
 # Counter-Strike: Legacy `0.1.1`
 [Counter-Strike](https://store.steampowered.com/app/10/CounterStrike) resources and maps for [Counter-Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive).
 
-Maps from Counter-Strike: [`Fy Snow`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785423894)
-<br>Maps for Counter-Strike: Global Offensive: [`Fy Dust`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424490), [`Fy Aztec`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424875)
-
-**Were used:**<br>
-BSP2MAP, GCFScape, Adobe Photoshop, Adobe Illustrator, VTF Editor, VMT Editor, Hammer++, TAR [Auto Radar]
+Gamemode | Maps from Counter-Strike | Maps for Counter-Strike: Global Offensive
+-------- | ------------------------ | -----------------------------------------
+Fight Yard | [`Snow`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785423894) | [`Dust`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424490), [`Aztec`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424875)
 
 ## Third Party Required Resources
 [`Developer Content`](https://github.com/Redesaile/csgo-developer)
