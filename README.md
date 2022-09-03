@@ -12,9 +12,9 @@ BSP2MAP, GCFScape, Adobe Photoshop, Adobe Illustrator, VTF Editor, VMT Editor, H
 
 ## Maps
 <div>
-  <img src="https://user-images.githubusercontent.com/90133781/188272331-20e11d43-75b7-48b3-8729-9f32b9248e34.png" width="256" height="128" alt="fy_snow">
-  <img src="https://user-images.githubusercontent.com/90133781/188272329-f121bc98-cd39-4ab4-8b33-c042e1b94186.png" width="256" height="128" alt="fy_dust">
-  <img src="https://user-images.githubusercontent.com/90133781/188272327-62c0744d-5dea-4c44-87e7-ecf52e5ad458.png" width="256" height="128" alt="fy_aztec">
+  <img src="https://user-images.githubusercontent.com/90133781/188272331-20e11d43-75b7-48b3-8729-9f32b9248e34.png" width="256" height="144" alt="fy_snow">
+  <img src="https://user-images.githubusercontent.com/90133781/188272329-f121bc98-cd39-4ab4-8b33-c042e1b94186.png" width="256" height="144" alt="fy_dust">
+  <img src="https://user-images.githubusercontent.com/90133781/188272327-62c0744d-5dea-4c44-87e7-ecf52e5ad458.png" width="256" height="144" alt="fy_aztec">
 </div>
 
 ##
