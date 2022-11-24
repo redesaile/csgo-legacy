@@ -1,0 +1,20 @@
+"GameInfo"
+{
+	game	"Counter-Strike: Global Offensive"
+	title	"Counter-Strike: Legacy"
+
+	"developer" 		"redesaile"
+	"developer_url"		"https://redesaile.github.io"
+
+
+	FileSystem
+	{
+		SteamAppId				730
+		ToolsAppId				211
+
+		SearchPaths
+		{
+			Game				|gameinfo_path|.
+		}
+	}
+}
