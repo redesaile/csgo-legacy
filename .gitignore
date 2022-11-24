@@ -1,10 +1,14 @@
-# Windows Explorer
-*.ini
-
-# Counter-Strike: Global Offensive
+# Source Engine
 *.vmx
 *.lin
 *.prt
 *.log
 *.bsp
 *.nav
+
+# User-specific files
+*.blend*
+!*.blend
+
+# Windows Explorer
+desktop.ini
