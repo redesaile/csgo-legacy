@@ -4,7 +4,6 @@
 	title	"Counter-Strike: Legacy"
 
 	"developer" 		"redesaile"
-	"developer_url"		"https://redesaile.github.io"
 
 
 	FileSystem
