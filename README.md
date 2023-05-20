@@ -5,7 +5,7 @@ Gamemode | Maps from Counter-Strike | Maps for Counter-Strike: Global Offensive
 -------- | ------------------------ | -----------------------------------------
 Fight Yard | [`Snow`](https://steamcommunity.com/sharedfiles/filedetails/?id=2878048817) | [`Dust`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424490), [`Aztec`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424875)
 
-## Third Party Required Resources
+## Required Resources
 [`Developer Content`](https://github.com/redesaile/csgo-developer)
 
 ## Gallery
