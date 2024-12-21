@@ -1,5 +1,5 @@
-# Counter-Strike: Legacy `0.1.1` `Frozen`
-[Counter-Strike](https://store.steampowered.com/app/10/CounterStrike) maps for [Source](https://developer.valvesoftware.com/wiki/Source) engine games.
+# Counter-Strike: Legacy
+[Counter-Strike](https://store.steampowered.com/app/10/CounterStrike) maps for [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive).
 
 Gamemode | Maps from Counter-Strike | Maps for Source engine games
 -------- | ------------------------ | -----------------------------------------
@@ -13,5 +13,7 @@ Fight Yard | [`Snow`](https://steamcommunity.com/sharedfiles/filedetails/?id=287
 ![Fy Dust](https://user-images.githubusercontent.com/90133781/188272329-f121bc98-cd39-4ab4-8b33-c042e1b94186.png)
 ![Fy Aztec](https://user-images.githubusercontent.com/90133781/188272327-62c0744d-5dea-4c44-87e7-ecf52e5ad458.png)
 
-##
-**Developer: [Kirill "THE OWL" Gazin](https://github.com/redesaile)**
+## License
+Do whatever you want. I don't care.
+
+[MIT](LICENSE) - Copyright (c) 2022 Redesaile
