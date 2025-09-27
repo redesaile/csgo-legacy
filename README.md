@@ -6,7 +6,7 @@ Gamemode | Maps from Counter-Strike | Maps for Source engine games
 Fight Yard | [`Snow`](https://steamcommunity.com/sharedfiles/filedetails/?id=2878048817) | [`Dust`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424490), [`Aztec`](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424875)
 
 ## Required Resources
-[`Developer Content`](https://github.com/redesaile/source-developer)
+[`Developer Content`](https://github.com/redesaile/csgo-developer-assets)
 
 ## Gallery
 ![Fy Snow](https://user-images.githubusercontent.com/90133781/188272331-20e11d43-75b7-48b3-8729-9f32b9248e34.png)
