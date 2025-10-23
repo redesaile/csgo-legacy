@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "tools/trigger_teleport_color"
+
+	$translucent 1
+
+	%keywords "tools, trigger"
+
+	%compiletrigger 1
+}
