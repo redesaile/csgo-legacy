@@ -1,7 +1,7 @@
 # Counter-Strike: Legacy
 [Counter-Strike](https://store.steampowered.com/app/10/CounterStrike) maps for [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive).
 
-Gamemode | Maps from Counter-Strike | Maps for Source engine games
+Gamemode | Maps from Counter-Strike | Not from Counter-Strike
 -------- | ------------------------ | -----------------------------------------
 Fight Yard | [Snow](https://steamcommunity.com/sharedfiles/filedetails/?id=2878048817) | [Dust](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424490), [Aztec](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424875)
 
