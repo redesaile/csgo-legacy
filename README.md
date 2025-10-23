@@ -13,4 +13,4 @@ Fight Yard | [Snow](https://steamcommunity.com/sharedfiles/filedetails/?id=28780
 ## License
 Do whatever you want. I don't care.
 
-[MIT](LICENSE) - Copyright (c) 2022 redesaile
+[MIT](LICENSE) - Copyright (c) 2025 redesaile
